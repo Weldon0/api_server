@@ -1,0 +1,4 @@
+- `git status` 查看 git 状态
+- `git init` 初始化 git 仓库
+- `git status -s` 精简方式展示 git 状态
+-
