@@ -6,6 +6,5 @@ git add .
 git commit -m ''
 git status -s
 
-撤销工作区的文件的修改
-
-- git checkout -- index.html
+- git checkout -- index.html 撤销工作区文件
+- git reset HEAD . 撤销暂存区文件
