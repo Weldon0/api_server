@@ -8,3 +8,5 @@ git status -s
 
 - git checkout -- index.html 撤销工作区文件
 - git reset HEAD . 撤销暂存区文件
+
+- git commit -a -m '快捷提交'
